@@ -10,8 +10,8 @@ This repository contains a list of papers on the **causal Learning for Graphs**,
 
 ## Latest Papers
 ### Year 2022
-1. [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective ** [[paper]](https://openreview.net/pdf?id=FQOC5u-1egI)
-1. [ICLR 2022] **Discovering Invariant Rationales for Graph Neural Networks ** [[paper]](https://openreview.net/pdf?id=hGXij5rfiHw)
+1. [ICLR 2022] **Handling Distribution Shifts on Graphs: An Invariance Perspective** [[paper]](https://openreview.net/pdf?id=FQOC5u-1egI)
+1. [ICLR 2022] **Discovering Invariant Rationales for Graph Neural Networks** [[paper]](https://openreview.net/pdf?id=hGXij5rfiHw)
 1. [arXiv 2022] **FairEdit: Preserving Fairness in Graph Neural Networks through Greedy Graph Editing** [[paper]](https://arxiv.org/pdf/2201.03681.pdf)
 1. [AAAI 2022] **Explaining GNN over Evolving Graphs using Information Flow** [[paper]](https://arxiv.org/pdf/2111.10037.pdf)
 1. [KDD 2022] **Causal Attention for Interpretable and Generalizable Graph Classification** [[paper]](https://arxiv.org/pdf/2112.15089.pdf)
